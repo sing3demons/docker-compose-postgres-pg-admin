@@ -24,7 +24,9 @@ services:
       - 8081:80
 ```
 <hr/>
+
 ```
+
 version: "3.8"
 
 services:
@@ -53,6 +55,7 @@ services:
 ```
 .env
 ```
+
 ```
 PG_DB=pg-api
 PG_USER=postgres
